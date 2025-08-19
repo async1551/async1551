@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm _15.51 aka Vaggelis</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=async1551&label=Profile%20views&color=0e75b6&style=flat+20" alt="async1551" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=async1551&label=Profile%20views&color=0e75b6&style=flat+180" alt="async1551" /> </p>
 
 - 📫 How to reach me **async15.51@proton.me**
 
