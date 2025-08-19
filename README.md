@@ -16,7 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=async1551&show_icons=true&locale=en" alt="async1551" /></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=async1551&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="async1551" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=async1551&show_icons=true&locale=en&theme=synthwave" alt="async1551" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=async1551&theme=synthwave" alt="async1551" />
 </p>
